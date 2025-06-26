@@ -1,1 +1,1 @@
-# Simple_LibraryManagement
+This program gives a brief idea about simple Library Management System using OOPs concept by using three main classes that are Book,User and Library class.It includes features like add book to library,issue a book to user (if available), return book back to library.# Simple_LibraryManagement
